@@ -1,0 +1,68 @@
+@media only screen and (min-width: 768px) {
+    body {
+        padding-top: 20px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    #circulo {
+        clip-path: circle(300px at  right 360px);
+        
+    }
+
+    h1 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    
+    span {
+        color: #017143;
+        font-size: 40px;
+        font-weight: 500;
+    }
+
+    #menu {
+        margin-top: 80px;
+        
+    }
+
+    
+}
+
+
+@media only screen  and (min-width: 992px){
+
+
+    body {
+        padding-top: 20px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    #circulo {
+        clip-path: circle(440px at  right 500px);
+        
+    }
+
+    h1 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    
+    span {
+        color: #017143;
+        font-size: 50px;
+        font-weight: 500;
+    }
+
+    #texto {
+        width: 600px;
+    }
+    
+    #imagem {
+        width: 600px;
+        margin-top: 109px;
+        margin-left: 50px;
+        
+    }
+}
