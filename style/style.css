@@ -71,7 +71,7 @@ p {
 }
 
 .starbucks {
-    width: 200px;
+    width: 150px;
     z-index: 2;
 }
 
@@ -91,7 +91,7 @@ p {
     position: absolute;
     top: 0;
     left: 0;
-    clip-path: circle(250px at  right 340px);
+    clip-path: circle(200px at  right 320px);
     
 }
 
